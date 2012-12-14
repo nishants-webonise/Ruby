@@ -1,0 +1,1784 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>  Classic Baked Acorn Squash Recipe | Simply Recipes</title>
+<meta name="description" content="Easy baked acorn squash recipe, perfect for the fall.  Squash is cut in half, insides scooped out, then baked with a little butter, brown sugar, and maple syrup.">
+<link rel="shortcut icon" href="http://www.simplyrecipes.com/simply-recipes.ico?ea6e46" type="image/x-icon">
+<link rel="icon" href="http://www.simplyrecipes.com/favicon.ico?ea6e46" type="image/x-icon">
+<link rel="alternate" type="application/rss+xml" title="Simply Recipes Latest Posts" href="http://feedproxy.google.com/elise/simplyrecipes">
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://feedproxy.google.com/elise/simplyrecipes">
+<link rel="alternate" type="application/rss+xml" title="Simply Recipes Latest Low Carb Recipes" href="http://feedproxy.google.com/SimplyRecipesLowCarb">
+<link rel="alternate" type="application/rss+xml" title="Simply Recipes Latest Vegetarian Recipes" href="http://feedproxy.google.com/SimplyRecipesVegetarian">
+<link rel="alternate" type="application/rss+xml" title="Simply Recipes Latest Gluten Free Recipes" href="http://feedproxy.google.com/SimplyRecipesGlutenFree">
+<!--[if lt IE 9]>
+<script src="http://www.simplyrecipes.com/wp-content/themes/simply/js/html5.js" type="text/javascript"></script>
+<![endif]--><link rel="alternate" type="application/rss+xml" title="Simply Recipes » Classic Baked Acorn Squash Comments Feed" href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/feed/">
+<link rel="stylesheet" id="sr-style-css" href="http://www.simplyrecipes.com/wp-content/themes/simply/style.css?ver=6f17d739" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script><script type="text/javascript" src="http://www.simplyrecipes.com/wp-content/themes/simply/js/tools.js?ver=6bf8aa51"></script><script type="text/javascript" src="http://simplyrecipes.ziplist.com/javascripts/pt_include.js"></script><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.simplyrecipes.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.simplyrecipes.com/wp-includes/wlwmanifest.xml">
+<link rel="prev" title="Salmon with Tomato, Onions, and Capers" href="http://www.simplyrecipes.com/recipes/salmon_with_tomato_onions_and_capers/">
+<link rel="next" title="Mom’s Baked Apple Slices" href="http://www.simplyrecipes.com/recipes/moms_baked_apple_slices/">
+<link rel="canonical" href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/">
+<meta property="og:site_name" content="Simply Recipes">
+<meta property="fb:app_id" content="138323699531998">
+<meta property="og:title" content="Classic Baked Acorn Squash">
+<meta property="og:url" content="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/">
+<meta property="og:description" content="Easy baked acorn squash recipe, perfect for the fall.  Squash is cut in half, insides scooped out, then baked with a little butter, brown sugar, and maple syrup.">
+<meta property="og:image" content="http://www.simplyrecipes.com/wp-content/uploads/2005/09/classic_baked_acorn_squash-296x200.jpeg">
+<meta property="og:type" content="article">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10921550-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="single single-recipe postid-1426">
+	<!-- Google Analytics Social Button Tracking -->
+	<script src="//www.simplyrecipes.com/wp-content/themes/simply/js/ga_social_tracking.js"></script><div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({ appId:'138323699531998',channelUrl:'//www.simplyrecipes.com/channel/index.php',status:true,cookie:true,xfbml:true });
+		// Track FB actions
+		_ga.trackFacebook();
+	};
+	(function(d, debug){
+		 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+		 if (d.getElementById(id)) {return;}
+		 js = d.createElement('script'); js.id = id; js.async = true;
+		 js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+		 ref.parentNode.insertBefore(js, ref);
+	 }(document, /*debug*/ false));
+</script><div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner"><hgroup><h1 class="site-title"><a href="http://www.simplyrecipes.com/" title="Simply Recipes" rel="home">Simply Recipes Food and Cooking Blog</a></h1>
+							<div class="site-search">
+					<form id="searchbox_003084314295129404805:i2-mkfc4cai" method="get" action="/search/" target="_top">
+						<input type="hidden" name="cx" value="003084314295129404805:i2-mkfc4cai"><input type="hidden" name="cof" value="FORID:11"><input name="q" type="text" maxlength="255" class="sitesearch-field" value=""><input type="image" src="http://www.simplyrecipes.com/wp-content/themes/simply/i/button-search.gif?ea6e46" value="Google Search" alt="Google Search" name="sa" title="Search this site with Google" class="sitesearch-button">
+</form>
+					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_003084314295129404805%3Ai2-mkfc4cai"></script>
+</div>		</hgroup><nav role="navigation" class="site-navigation main-navigation"><h1 class="assistive-text">Menu</h1>
+			<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+			<div class="menu-main-navigation-menu-container"><ul id="menu-main-navigation-menu" class="menu">
+<li id="menu-item-10433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10433"><a href="/">Home</a></li>
+<li id="menu-item-10434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10434"><a href="/about/">About</a></li>
+<li id="menu-item-10435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10435"><a href="/index/">Recipe Index</a></li>
+<li id="menu-item-10436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10436"><a href="/subscribe/">Subscribe</a></li>
+<li id="menu-item-10437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10437"><a rel="nofollow" href="http://simplyrecipes.ziplist.com/recipes/box">Recipe Box</a></li>
+</ul></div>			
+			<div id="fontsize">
+				<a id="fontdown" href="javascript:void(0)" onclick="makeFontSmaller();"><img src="/wp-content/themes/simply/i/icon-font-down.gif?ea6e46" alt="Regular Font" title="Regular Font"></a> 
+				<a id="fontup" href="javascript:void(0)" onclick="makeFontLarger();"><img src="/wp-content/themes/simply/i/icon-font-up.gif?ea6e46" alt="Larger Font" title="Larger Font"></a> 
+			</div>
+			
+		</nav><!-- .site-navigation .main-navigation --></header><!-- #masthead .site-header --><div id="main" class="site-main">
+		<div id="primary" class="content-area">
+			<div id="content" class="site-content" role="main">
+
+				
+					<nav id="nav-single"><h3 class="assistive-text">Post navigation</h3>
+
+																		    <span class="nav-previous"><a href="http://www.simplyrecipes.com/recipes/salmon_with_tomato_onions_and_capers/">« Salmon with Tomato, Onions, and Capers</a></span> | 
+													<span><a href="http://www.simplyrecipes.com" title="Recipe Home">Recipe Home</a></span>
+												    <span class="nav-next"> | <a href="http://www.simplyrecipes.com/sugar_high_friday_-_cooking_up_custard/">Sugar High Friday - Cooking Up Custard »</a></span> 
+											</nav><!-- #nav-single --><article id="post-1426" class="post-1426 recipe type-recipe status-publish hrecipe category-gluten-free category-seasonal_favorites_fall category-side_dish category-thanksgiving category-vegetable category-vegetarian tag-acornsquash tag-squash tag-thanksgiving tag-wintersquash hrecipe" itemscope itemtype="http://schema.org/Recipe"><header class="entry-header"><div class="print-options">
+					<div class="print-icon">
+						<a href="javascript:void(0);" title="Print this recipe"><img src="http://www.simplyrecipes.com/wp-content/themes/simply/i/icon-print.gif?ea6e46" alt="Print"></a>
+					</div>
+					<div class="print-dropdown">
+						<h3>Print Options</h3>
+						<ul>
+<li><a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/print/" title="Print">Print</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/print/#nophoto" title="Print (no photos)">Print (no photos)</a></li>						</ul>
+</div>
+				</div>							
+							<h1 class="entry-title fn" itemprop="name">Classic Baked Acorn Squash</h1>
+
+							<div class="entry-meta">
+								<p class="posted">Posted by <span class="author vcard"><span class="fn">Elise</span></span> on <a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/" title="9:05 am" rel="bookmark" class="byline-date updated"><time class="entry-date" datetime="2005-09-15T09:05:25+00:00" pubdate>September 15, 2005</time></a></p>								<p>Filed under <a href="http://www.simplyrecipes.com/recipes/type/gluten-free/" rel="tag">Gluten-Free</a>, <a href="http://www.simplyrecipes.com/recipes/season/seasonal_favorites_fall/" rel="tag">Seasonal Favorites: Fall</a>, <a href="http://www.simplyrecipes.com/recipes/course/side_dish/" rel="tag">Side Dish</a>, <a href="http://www.simplyrecipes.com/recipes/season/thanksgiving/" rel="tag">Thanksgiving</a>, <a href="http://www.simplyrecipes.com/recipes/main-ingredient/vegetable/" rel="tag">Vegetables</a>, <a href="http://www.simplyrecipes.com/recipes/type/vegetarian/" rel="tag">Vegetarian</a></p>							</div>
+<!-- .entry-meta -->
+							
+							<div id="social-links">
+								<div id="fb-like">
+									<div class="fb-like" data-href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+								</div>	
+																<div id="pinterest-pin">
+										<a href="http://pinterest.com/pin/create/button/?url=http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/&amp;media=http://www.simplyrecipes.com/wp-content/uploads/2005/09/classic_baked_acorn_squash.jpeg&amp;description=Classic+Baked+Acorn+Squash" class="pin-it-button" count-layout="horizontal">Pin It</a>
+										<script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+</div>
+								
+								<a href="https://twitter.com/share" class="twitter-share-button" data-via="recipeupdates">Tweet</a>
+								<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><!-- Place this tag where you want the +1 button to render --><plusone size="medium"></plusone><!-- Place this render call where appropriate --><script type="text/javascript">
+								  (function() {
+								    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+								    po.src = 'https://apis.google.com/js/plusone.js';
+								    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+								  })();
+								</script>
+</div>
+																
+						</header><!-- .entry-header --><div class="entry-content">
+							
+															<div class="featured-image">
+									<img width="320" height="216" src="http://www.simplyrecipes.com/wp-content/uploads/2005/09/classic_baked_acorn_squash.jpeg?ea6e46" class="photo wp-post-image" alt="classic_baked_acorn_squash" itemprop="image">
+</div>
+							 
+							<div itemprop="description">
+<p>The weather has finally decided to cool down around here and the first acorn squash have appeared at our local farmers market. Acorn squash are wonderfully easy to prepare – just cut them in half, scoop out the seeds, add a little brown sugar and/or maple syrup, and bake for a little over an hour. From Google Definitions,</p>
+<blockquote><p>Choose squash that are heavy for their size and have a hard, deep-colored rind free of blemishes or moldy spots. The hard skin of a winter squash protects the flesh and allows it to be stored longer than summer squash. It does not require refrigeration and can be kept in a cool, dark place for a month or more, depending on the variety. Once the seeds are removed, winter squash can be baked, steamed or simmered. They’re a good source of iron, riboflavin and vitamins A (more than summer squash) and C.</p></blockquote>
+</div>
+								
+																
+								
+								<div class="recipe-callout">
+								
+													<div class="print-options">
+					<div class="print-icon">
+						<a href="javascript:void(0);" title="Print this recipe"><img src="http://www.simplyrecipes.com/wp-content/themes/simply/i/icon-print.gif?ea6e46" alt="Print"></a>
+					</div>
+					<div class="print-dropdown">
+						<h3>Print Options</h3>
+						<ul>
+<li><a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/print/" title="Print">Print</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/print/#nophoto" title="Print (no photos)">Print (no photos)</a></li>						</ul>
+</div>
+				</div>									
+									<h2>Classic Baked Acorn Squash Recipe</h2>
+									
+																			<div class="recipe-meta">
+											<ul>
+<li class="recipe-prep">
+<span class="recipemeta-label">Prep time:</span> <span class="preptime" itemprop="prepTime" content="PT00H10M">10 minutes<span class="value-title" title="PT00H10M"></span></span>
+</li>
+<li class="recipe-cook">
+<span class="recipemeta-label">Cook time:</span> <span class="cooktime" itemprop="cookTime" content="PT01H15M">1 hour, 15 minutes<span class="value-title" title="PT01H15M"></span></span>
+</li>											
+											</ul>
+</div>
+																		
+										
+									
+																			<div id="recipe-ingredients" class="entry-details">
+											<div class="zl-recipe-link">
+												<a class="custom-butn-link" href="javascript:void(0);" onmouseup='getZRecipe(this, "simplyrecipes", ""); return false;' title="Add this recipe to your ZipList, where you can store all of your favorite web recipes in one place and easily add ingredients to your shopping list.">
+													<span>Add to shopping list</span>
+												</a>
+											</div>
+											<h3>Ingredients</h3>
+											<ul>
+<li class="ingredient" itemprop="ingredients">1 Acorn squash</li>
+<li class="ingredient" itemprop="ingredients">1 Tbsp Butter</li>
+<li class="ingredient" itemprop="ingredients">2 Tbsp Brown Sugar</li>
+<li class="ingredient" itemprop="ingredients">2 teaspoons Maple Syrup</li>
+<li class="ingredient" itemprop="ingredients">Dash of Salt</li>
+</ul>
+</div>
+																	
+									<div id="recipe-method" class="entry-details instructions">
+										<h3>Method</h3>
+										<div itemprop="recipeInstructions">
+<p><strong>1</strong> Preheat oven to 400°F.</p>
+<p><strong>2</strong> Using a strong chef's knife, and perhaps a rubber mallet to help, cut the acorn squash in half, lengthwise, from stem to end. Use a spoon to scoop out the seeds and stringy stuff in the center of each half. Score the insides of each half several times with a sharp knife. Place each half in a baking pan, cut side up. Add about a 1/4 inch of water to the bottom of the baking pan so that the skins don't burn and the squash doesn't get dried out.</p>
+<p><strong>3</strong> Coat the inside of each half with 1/2 a Tbsp of butter. Add a dash of salt if you are using unsalted butter. Add a Tbsp of brown sugar to the cavity of each half. Dribble on a teaspoon of maple syrup to each half.</p>
+<p><strong>4</strong> Bake in the oven for 1 hour to 1 hour 15 minutes, until the squash is very soft and the tops are browned. Do not undercook. When finished, remove from oven and let cool a little before serving. Spoon any buttery sugar sauce that has not already been absorbed by the squash over the exposed areas.</p>
+</div>
+										<p><strong>Yield:</strong> <span class="yield" itemprop="recipeYield">Serves 2 to 4, depending on how much squash you like to eat.</span></p>									</div>
+									
+									
+								</div>
+								
+								<div class="ad">
+									<!-- Begin supplemental 600 ad -->
+									<script src="http://ads.blogherads.com/19/198/600nhs.js" type="text/javascript"></script><!-- End supplemental 600 ad -->
+</div>
+																									
+								
+							
+							<div id="subscribe-center">
+								<div class="subscribe-email">
+									<h3>Never miss a recipe!</h3> 
+									<p>Subscribe to Simply Recipes free via email: <span>(<a href="http://www.simplyrecipes.com/subscribe/">more details</a>)</span></p>
+									<form method="post" action="http://www.feedblitz.com/f/f.fbz?AddNewUserDirect">
+										<div class="field-holder"><input name="email" maxlength="100" type="text" size="18" placeholder="Enter email..." class="field"></div>
+										<input name="feedid" type="hidden" value="25748"><input type="image" src="http://www.simplyrecipes.com/wp-content/themes/simply/i/subscribebutton-960.png?ea6e46" alt="go" class="button">
+</form>
+								</div>
+								<div class="subscribe-follow">
+									<ul>
+<li><a href="http://feeds.feedburner.com/elise/simplyrecipes" title="Subscribe to my feed" type="application/rss+xml" rel="nofollow" id="subscribe-feed">Get recipe updates via RSS</a></li>
+										<li><a href="http://twitter.com/recipeupdates" title="Simply Recipes on Twitter" rel="nofollow" id="subscribe-twitter">Get recipe updates on Twitter</a></li>
+									</ul>
+</div>
+							</div>
+
+							
+						</div>
+<!-- .entry-content -->
+
+						<footer class="entry-meta"><p>Indexed: <a href="http://www.simplyrecipes.com/recipes/ingredient/acorn_squash/" rel="tag">Acorn Squash</a>, <a href="http://www.simplyrecipes.com/recipes/ingredient/squash/" rel="tag">Squash</a>, <a href="http://www.simplyrecipes.com/recipes/ingredient/vegetables/" rel="tag">Vegetables</a>, <a href="http://www.simplyrecipes.com/recipes/ingredient/winter_squash/" rel="tag">Winter Squash</a></p>
+							<ul class="entry-options">
+<li><a href="http://www.feedblitz.com/f/f.fbz?Fwd2FriendEdit=194280;239976;http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/;Classic%20Baked%20Acorn%20Squash;0" id="option-email">Email to a friend</a></li>
+								<li><a href="http://twitter.com/share?url=http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/&amp;text=Classic%20Baked%20Acorn%20Squash&amp;via=recipeupdates" target="_blank" id="option-twitter" rel="nofollow">Tweet this!</a></li>
+								<li>
+<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><a href="http://www.facebook.com/share.php?u=http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/" onclick="return fbs_click()" target="_blank" id="option-facebook" rel="nofollow">Share on Facebook</a>
+</li>
+																<li><a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/print/#nophoto" id="option-print-nophoto">Print (no photos)</a></li>
+								<li><a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/print/" id="option-print">Print (with photos)</a></li>
+																							</ul></footer><!-- .entry-meta --></article><!-- #post-1426 --><div class="yarpp-related">
+
+<div class="related-entry-thumbs">
+	<h3>You might also like</h3>
+	<ol>
+<li>
+							<div class="featured-image">
+					<a href="http://www.simplyrecipes.com/recipes/butternut_squash_with_walnuts_and_vanilla/" title="Butternut Squash with Walnuts and Vanilla" rel="bookmark"><img width="180" height="120" src="http://www.simplyrecipes.com/wp-content/uploads/2010/10/butternut-squash-walnuts-vanilla-180x120.jpg?ea6e46" class="photo wp-post-image" alt="Butternut Squash with Walnuts and Vanilla (photo)"></a>
+				</div>							
+			 			<a href="http://www.simplyrecipes.com/recipes/butternut_squash_with_walnuts_and_vanilla/" title="Butternut Squash with Walnuts and Vanilla" rel="bookmark">Butternut Squash with Walnuts and Vanilla</a>
+		</li>
+	    	    <li>
+							<div class="featured-image">
+					<a href="http://www.simplyrecipes.com/recipes/moms_summer_squash/" title="Mom’s Summer Squash" rel="bookmark"><img width="180" height="120" src="http://www.simplyrecipes.com/wp-content/uploads/2006/08/summer-squash-180x120.jpg?ea6e46" class="photo wp-post-image" alt="Mom's Summer Squash (photo)"></a>
+				</div>							
+			 			<a href="http://www.simplyrecipes.com/recipes/moms_summer_squash/" title="Mom’s Summer Squash" rel="bookmark">Mom’s Summer Squash</a>
+		</li>
+	    	    <li>
+							<div class="featured-image">
+					<a href="http://www.simplyrecipes.com/recipes/butternut_squash_with_browned_butter_and_thyme/" title="Butternut Squash with Browned Butter and Thyme" rel="bookmark"><img width="180" height="120" src="http://www.simplyrecipes.com/wp-content/uploads/2008/11/butternut-squash-thyme-180x120.jpg?ea6e46" class="photo wp-post-image" alt="Butternut Squash with Browned Butter and Thyme (photo)"></a>
+				</div>							
+			 			<a href="http://www.simplyrecipes.com/recipes/butternut_squash_with_browned_butter_and_thyme/" title="Butternut Squash with Browned Butter and Thyme" rel="bookmark">Butternut Squash with Browned Butter and Thyme</a>
+		</li>
+	    	</ol>
+</div>
+</div>
+
+					<div class="ad">
+						<script type="text/javascript"><!--
+						google_ad_client = "ca-pub-5527714554151844";
+						/* Simply Recipes-Text-Rectangle */
+						google_ad_slot = "5063593882";
+						google_ad_width = 336;
+						google_ad_height = 280;
+						//-->
+						</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+						</script>
+</div>
+					
+					
+
+	<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			65 Comments		</h2>
+
+		<ol class="commentlist">
+<li class="comment even thread-even depth-1" id="li-comment-62575">
+		<article id="comment-62575" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/c714c5bfd49c0e3ba1f11de880811f17?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://bakingsheet.blogspot.com" rel="external nofollow" class="url">Nic</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62575"><time pubdate datetime="2005-09-15T11:40:50+00:00">
+					September 15, 2005 at 11:40 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>One of my favorite things to do in winter. Yum!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62576">
+		<article id="comment-62576" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/808ef6f1e8d16ed205282cc51c1f9b8a?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Xarley</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62576"><time pubdate datetime="2005-09-15T11:45:07+00:00">
+					September 15, 2005 at 11:45 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>My husband and love Acorn squash. We make it a heartier dish by adding a handful of chopped walnuts to the center under the sugar and butter.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62577">
+		<article id="comment-62577" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/527a0ea80955e6fcae974a02c0d925cf?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://www.zenfoodism.com/" rel="external nofollow" class="url">Beth - The Zen Foodist</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62577"><time pubdate datetime="2005-09-15T16:08:14+00:00">
+					September 15, 2005 at 4:08 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I tried making this a few years ago without much success.  Your recipe sounds better than the one I tried.  Thanks!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62578">
+		<article id="comment-62578" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/244169eebeb521e4cdbe623acf4bb107?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">dart1121</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62578"><time pubdate datetime="2005-09-16T06:12:43+00:00">
+					September 16, 2005 at 6:12 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I’ve never understood why people put sugary stuff on their squash.  Especially acorn, which is one of the sweeter varieties of this wonderful, versatile vegetable.  I simply bake it with salt, pepper and a slab of butter in the middle.  Or, if I want to serve it later, I scoop out the flesh after baking, put it in a microwave-safe dish, place pats of butter over it, and put it in the frig to be warmed in the microwave when needed.  I always do this at Thanksgiving when oven space is at a premium.  Please – I implore you!  Try squash just once without the maple syrup or brown sugar.  I’m sure you’ll agree that its sweet enough without the added calories.  </p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62579">
+		<article id="comment-62579" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/?d=http://www.simplyrecipes.com/wp-content/themes/simply/i/logo-avatar.png&amp;s=40" class="avatar avatar-40 photo avatar-default" height="40" width="40"><cite class="fn"><a href="http://www.elise.com" rel="external nofollow" class="url">Elise</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62579"><time pubdate datetime="2005-09-16T09:41:04+00:00">
+					September 16, 2005 at 9:41 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Hi Xarley – great idea, chopped walnuts.  I’ve also seen versions with chopped pecans as well.</p>
+<p>Hi Beth – You’re welcome.  This recipe is pretty easy, you just need to make sure to cook the squash long enough.</p>
+<p>Hi Dart – I eat acorn squash all the time without sugar; it depends on the level of sweetness I’m in the mood for.  Personally I usually like it better with the maple syrup and brown sugar.  To each her own, eh?</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62580">
+		<article id="comment-62580" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/a5c8be1929325ac20185237e72c72491?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">mj</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62580"><time pubdate datetime="2005-09-16T11:37:43+00:00">
+					September 16, 2005 at 11:37 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Just a note about the cutting of the squash which I have been making for a million years with syrup and without!! Insert paring knife twice on the line where you will eventually cut squash and then microwave maybe 30 seconds to a minute…..simple to split afterwards. Love the site.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62581">
+		<article id="comment-62581" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/?d=http://www.simplyrecipes.com/wp-content/themes/simply/i/logo-avatar.png&amp;s=40" class="avatar avatar-40 photo avatar-default" height="40" width="40"><cite class="fn">Tom</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62581"><time pubdate datetime="2005-11-17T12:27:00+00:00">
+					November 17, 2005 at 12:27 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>OK, I’ve scoured the net and can’t find the answer… Should you eat the squash rind? I recently made Acorn Squash roasted in the oven but we weren’t too sure if you were supposed to eat the rind also, or just the flesh inside… help! :-)</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62582">
+		<article id="comment-62582" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/1d7ebeaa04451a7be727868f4d4629ee?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://www.elise.com" rel="external nofollow" class="url">Elise</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62582"><time pubdate datetime="2005-11-17T13:11:05+00:00">
+					November 17, 2005 at 1:11 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Hi MJ – What a great tip, thank you!  I always have a hard time cutting an acorn squash in half.  This will help.</p>
+<p>Hi Tom – We don’t eat the rind.  Maybe some people do, but we don’t.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62583">
+		<article id="comment-62583" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/bf018e74026c028ce1531c81f92c9d89?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Kris</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62583"><time pubdate datetime="2005-11-24T08:50:10+00:00">
+					November 24, 2005 at 8:50 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I made this for two thanksgiving dinners I had this year and it was INCREDIBLE both times. Thought it was fantastic and I even converted two non-squash eaters!!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62584">
+		<article id="comment-62584" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/?d=http://www.simplyrecipes.com/wp-content/themes/simply/i/logo-avatar.png&amp;s=40" class="avatar avatar-40 photo avatar-default" height="40" width="40"><cite class="fn">Anonymous</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62584"><time pubdate datetime="2006-09-23T18:51:53+00:00">
+					September 23, 2006 at 6:51 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>If I want to make plain acorn squash, do I need to alter the instructions apart from eliminating step 3? Also, what is the reasoning behind cutting the acorn squash lengthwise – does it not work to cut it horizontally?  I am planning on serving the plain squash as a gluten-free “bread bowl” and putting chili inside, so you can scoop out some cooling, sweet squash with each bite of spiciness.  Yummers!  </p>
+<p>Thanks for the 2 great tips – about adding 1/4 inch of water to the bottom of the baking sheet so the skins don’t burn and also on scoring and then microwaving for 30 seconds to faciliate easier cutting.  </p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62585">
+		<article id="comment-62585" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/1d7ebeaa04451a7be727868f4d4629ee?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://www.elise.com/recipes" rel="external nofollow" class="url">Elise</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62585"><time pubdate datetime="2006-09-23T21:09:46+00:00">
+					September 23, 2006 at 9:09 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Regarding making plain acorn squash, just eliminate step 3.  You want to cut the acorn squash lengthwise because the squash will lie easier in the pan that way.  </p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62586">
+		<article id="comment-62586" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/b4259ff8ca5a5c76d12487987e4f7796?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Susannah</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62586"><time pubdate datetime="2006-12-24T17:18:13+00:00">
+					December 24, 2006 at 5:18 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>To make a healthier squash, we use Orange juice instead of butter. Helps to soften and moisten the squash w/o the fat.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62587">
+		<article id="comment-62587" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/9b6619c5bdff5713b176dc0b4784e1a5?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Rusty Girl Robinson</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62587"><time pubdate datetime="2007-09-02T11:26:12+00:00">
+					September 2, 2007 at 11:26 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I am so thankful for this site. It has helped me so much with my failing memory these days. LoL! I love acorn squash and appreciate the new ideas to fix it. Gotta try it with maple syrup…sounds yummy!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62588">
+		<article id="comment-62588" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/?d=http://www.simplyrecipes.com/wp-content/themes/simply/i/logo-avatar.png&amp;s=40" class="avatar avatar-40 photo avatar-default" height="40" width="40"><cite class="fn">Anoynomus</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62588"><time pubdate datetime="2007-10-08T13:51:19+00:00">
+					October 8, 2007 at 1:51 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>This is SO yummy I am so glad that this is on the web!!!!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62589">
+		<article id="comment-62589" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/1e778aa9a44ef99c77b82e3e0d6bb23a?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">AB</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62589"><time pubdate datetime="2007-11-08T20:37:21+00:00">
+					November 8, 2007 at 8:37 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Excellent! I’ve never made acorn squash before, and it turned out just like the picture. It was so delicious I will be bringing it to Thanksgiving this year! Thank you for having such an inspirational website!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62590">
+		<article id="comment-62590" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/4741c58f0992abb5b3e4205399f47daa?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">DJ</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62590"><time pubdate datetime="2007-11-13T11:17:26+00:00">
+					November 13, 2007 at 11:17 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Hopefully someone can help me.  I’m planning on making this for thanksgiving but I have never had it before, neither has the rest of my family.  So, when the squash is cut in half, how do you serve it to a large group of people? Slice it, scoop it out, what? Obviously I will make a few squashes but I have no clue how to dish it out.</p>
+<p>Thanks!!!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62591">
+		<article id="comment-62591" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/4e89a31da7290980b9f21e921e1b9feb?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Rachelle</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62591"><time pubdate datetime="2007-11-15T04:48:00+00:00">
+					November 15, 2007 at 4:48 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>DJ,</p>
+<p>When I serve acorn squash, I usually serve 1/2 to 1/4 (one 1/2 cut in half makes a nice wedge) of a squash to each person, depending on the size of the squash and how much other food is being served.  If you have a lot of other food on Thanksgiving (as we always do), then you could cut each squash half into thirds, so that you would get 6 nice wedges from each whole squash.  I think the wedges make a nice presentation.</p>
+<p>Hope this helps!</p>
+<p>Enjoy,<br>
+Rachelle</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62592">
+		<article id="comment-62592" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/d68bbb81292e5d16a9e508fdc974eede?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://sassandveracity.com" rel="external nofollow" class="url">kellypea</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62592"><time pubdate datetime="2007-11-20T20:07:40+00:00">
+					November 20, 2007 at 8:07 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Yum!  This recipe with the suggestions have been quite helpful in baking my first acorn squash.  I’m thinking of adding apples and pecans.  Can’t wait.  The orange juice suggestion instead of butter sounded lovely!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62593">
+		<article id="comment-62593" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/d2b05c16250465ae37e60788752f0dd3?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://www.papergeist.com" rel="external nofollow" class="url">SUSAN</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62593"><time pubdate datetime="2007-11-21T15:32:02+00:00">
+					November 21, 2007 at 3:32 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Hello!<br>
+The squash is also easy to cut if you leave it in the oven while preheating, maybe 10 minutes. I don’t have a microwave, so this is what I do.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62594">
+		<article id="comment-62594" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/6ce02242adbd5f5a143313efd0c885f5?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Sarah</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62594"><time pubdate datetime="2007-11-23T00:26:50+00:00">
+					November 23, 2007 at 12:26 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I made the recipe as suggested in the original and it was great.  One tip I learned off another site that worked well was before you cut the squash in half, cut a little slice off one side so that you have a flat side to stabilize it on while cutting in half.  Also I would say 1/6 of a squash is the perfect quantity per person at Thanksgiving.  We don’t eat the skins.  </p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62595">
+		<article id="comment-62595" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/ea9040dab5e7f3d751b0a71922195be3?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://blatherfrombrooklyn.wordpress.com" rel="external nofollow" class="url">annulla</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62595"><time pubdate datetime="2007-11-30T18:52:06+00:00">
+					November 30, 2007 at 6:52 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>This is the way I’ve prepared acorn squash all my life, and while I came here tonight looking for a new technique, the memories (and of course, your prose) drove me to make it this way again. For me, this is comfort food. </p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62596">
+		<article id="comment-62596" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/8ccd04e55cb3226a7443f874e0455b0b?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Sue Chandler</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62596"><time pubdate datetime="2007-12-31T18:53:22+00:00">
+					December 31, 2007 at 6:53 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>A friend suggested that a less labor intensive way to prepare/cook the squash would be to bake them whole the day before my dinner party and not cut them in half until I’m ready to warm them and add final seasoning just before serving.   I’m planning to fill each one with a scoop of Hoppin’ John…for new Year’s luck.  I can’t find a recipe though that suggests preparing them ahead of time this way and wonder if anyone else has tried this.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62597">
+		<article id="comment-62597" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/38fb863ebf0a7babee96b3596a54e43a?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">sean</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62597"><time pubdate datetime="2008-01-01T11:47:13+00:00">
+					January 1, 2008 at 11:47 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>A great meal with acorn squash is to cut the top off, and just enough off the bottom so it stands on it’s own. Scoop out the insides and fill with a puree soup or my favorite is a french canadien pea soup, and put the top back on. Bake in the oven for approx. 1hr depending on the size of the acorn..you get the soup and can eat the delicious bowl. (I try to stay away from soups made of other squashes to make this one more pronounced) enjoy</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62598">
+		<article id="comment-62598" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/603791e05b780dc8b1139b92336c687c?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://www.sacfoodies.com" rel="external nofollow" class="url">Christine</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62598"><time pubdate datetime="2008-01-22T10:08:47+00:00">
+					January 22, 2008 at 10:08 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I had never prepared acorn squash until this past weekend.  Thanks so much for providing yet another simple (and tasty) recipe!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62599">
+		<article id="comment-62599" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/8019d564f059e3c94d4aba4ba013b9a0?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Bérangère</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62599"><time pubdate datetime="2008-02-18T11:23:07+00:00">
+					February 18, 2008 at 11:23 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I’m a new member and this is only my second time at having acorn squash. My first time was a couple of years ago at the in laws and I liked it so much I kept going for more! It made my mother in law happy because everybody else was fussy and skipping the squash. This is my second time and again I love it! I love it even more! What an exciting discovery! I am so into this! I’m the only one so far in my family to like it and it’s a good thing since I get more for myself! Not for long though since I have a 9 month baby who loves butternut squash in the jar. I just had leftovers for lunch (a whole half of squash as a side dish with a goat cheese omelette). It was excellent and I was more excited about the leftover squash than the omelette! Someone asked if you should eat the skin… I totally do! Couldn’t imagine not eating it! It’s adding just enough texture with the rest of the soft sweet flesh. Will do this again and again and again!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62600">
+		<article id="comment-62600" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/e2c11bc708a1d8e9c026b3e3a044ed4f?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Den Kingery</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62600"><time pubdate datetime="2008-09-30T16:19:06+00:00">
+					September 30, 2008 at 4:19 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>My Grandma showed me this recipe 40 years ago. She adds 4 half strips of bacon crosswise on each half of squash.  Adds  great flavor to the squash.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62601">
+		<article id="comment-62601" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/4e3cf76770e29901110aacf1a10d809d?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Beth</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62601"><time pubdate datetime="2008-10-02T08:07:04+00:00">
+					October 2, 2008 at 8:07 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Being a bartender I use a little ammeretto or grand marnier instead of the syrup and brown sugar.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62602">
+		<article id="comment-62602" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/8811fa35a4a8a136b20beb863d8c8f78?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Dee</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62602"><time pubdate datetime="2008-10-08T23:02:21+00:00">
+					October 8, 2008 at 11:02 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I just found acorn squash in a supermarket in Mazatlán, México where I live, for the 1st time! I am so excited! Thanks for all the good cooking tips. I like savory instead of sweet, so probably will try the bacon idea. Maybe just a bit of honey or brown sugar and some chile with the bacon? Or some chorizo instead? I am salivating, thinking about it. I love squash. Thanks, Elise, for the best food blog ever. Dee  </p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62603">
+		<article id="comment-62603" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/3225d0f12fdfa8011e3316aba039e1f9?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">MB Ginny</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62603"><time pubdate datetime="2008-10-12T07:14:34+00:00">
+					October 12, 2008 at 7:14 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I have always used butter, brown sugar, salt &amp; pepper to coat the pieces. going to add a little Triple Sec this year, thanks.   QUESTION: If I par-cook/microwave the squash then cool/store it before baking will it compromise its consistency &amp;/or flavour?  Oven space is scarce and ‘My oven runneth over’.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62604">
+		<article id="comment-62604" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/22f95cebaf3cd73cf0153c7cf9bd03b9?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Amber</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62604"><time pubdate datetime="2008-10-12T19:26:23+00:00">
+					October 12, 2008 at 7:26 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>My MIL makes her squash this way, except that she ALSO does a butternut squash, scoops out the innards after cooking, and combines them.  Amazing.</p>
+<p>@MB Ginny:</p>
+<p>I have a friend who cooks her squash entirely in the microwave, though I’ve never done this and am unsure of the time required.  Something to think about though.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62605">
+		<article id="comment-62605" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/a2f11b3729f756d68f8583a6a33bd9e3?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Maria</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62605"><time pubdate datetime="2008-10-20T08:33:37+00:00">
+					October 20, 2008 at 8:33 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Oooh, this looks amazing. I’m going to do just that this weekend, and fill the halves with couscous right before serving.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62606">
+		<article id="comment-62606" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/754a30ccb76a8fd4f6e885f6a9d5f572?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Kathy</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62606"><time pubdate datetime="2008-10-20T17:43:39+00:00">
+					October 20, 2008 at 5:43 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I just cut open an acorn squash and it is white on the inside. Shouldn’t it be yellow or orangish? Maybe it’s not ripe so I don’t know if I should cook it anyway. I love acorn squash in the fall. Oh, and by the way, I never heard of eating the green “skin” or rind. Doesn’t sound appetizing to me. </p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62607">
+		<article id="comment-62607" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/85c809d9f2c39b214a42b9afd8b2a498?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Nadine</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62607"><time pubdate datetime="2008-10-20T21:35:12+00:00">
+					October 20, 2008 at 9:35 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I used to make my acorn squash with brown sugar also, BUT for some of you that don’t really care for the really sweet squash…try just butter (or margarine) salt &amp; pepper, make sure while cooking it baste the squash with the melted butter already inside the squash every 10 minutes its soooooo good! My grandma has been making it this way for years &amp; years. It brings out the natural sweetness already in the squash. Hope you enjoy let me know what ya think anyone :o)</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62608">
+		<article id="comment-62608" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/aba1f3c7c3d7e2d1c3bea517869ce55e?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Amy</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62608"><time pubdate datetime="2008-11-10T18:14:53+00:00">
+					November 10, 2008 at 6:14 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>What do you serve with the squash?</p>
+<p><em>The squash is a side dish. It is terrific accompanying chicken, turkey, pork, or steak. ~Elise</em></p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62609">
+		<article id="comment-62609" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/b0514a41f339f570593b78f3e1421b81?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">MaggieE</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62609"><time pubdate datetime="2008-11-17T07:12:01+00:00">
+					November 17, 2008 at 7:12 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I made it recently without the sweet stuff by salting it after roasting, then returning it to the oven with a dusting of fresh grated parmesan cheese and a scant handful of chopped pecans.  It was really good!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62610">
+		<article id="comment-62610" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/4153396d3f00c5dfe7cdcbcf6f38470c?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Francine</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62610"><time pubdate datetime="2008-12-02T14:14:24+00:00">
+					December 2, 2008 at 2:14 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I just baked acorn squash for the first time. I did not want to use the sweet recipes because my husband cannot eat sweets. So based on some of the suggestions above i simply coated mine with olive oil(instead of butter), seasoned with seasoning salt, garlic, and lemon pepper. It was delicious! Thanks Elise and everyone else.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62611">
+		<article id="comment-62611" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/9a60431bff7bdd0d83e7489e981c88f3?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://apricotta.wordpress.com" rel="external nofollow" class="url">April</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62611"><time pubdate datetime="2008-12-04T19:42:23+00:00">
+					December 4, 2008 at 7:42 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I just made this with a carnival squash that came in my CSA box. It’s delicious, lovely, and simple. Thanks, Elise!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62612">
+		<article id="comment-62612" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/be37aa9d4c0c24d6ca22bfdc30b2c643?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Nicole</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62612"><time pubdate datetime="2008-12-25T09:32:27+00:00">
+					December 25, 2008 at 9:32 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>We’ve made this 4 times the past month!  So tasty.  We’re bringing it today as a side dish for Christmas dinner with friends. :)  Thanks for posting! </p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62613">
+		<article id="comment-62613" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/cbc2b7df3aba98fb4653d7ac9c07e707?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Barbara</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62613"><time pubdate datetime="2009-01-03T00:24:36+00:00">
+					January 3, 2009 at 12:24 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>You can put nutmeg mixed in with butter or even olive oil or grapeseed oil instead of the syrup/sugar combo and it will have a nice zing to it!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62614">
+		<article id="comment-62614" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/ce9c4cd6626cd43dcb03322e8b0e931c?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Tom</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62614"><time pubdate datetime="2009-02-11T12:22:18+00:00">
+					February 11, 2009 at 12:22 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I leave out the Maple Syrup but add Worchester Sauce then top that with shredded cheese.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62615">
+		<article id="comment-62615" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/f7ea49d02baa9da1039d3a46040b6353?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Brittany</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62615"><time pubdate datetime="2009-02-22T15:56:48+00:00">
+					February 22, 2009 at 3:56 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I made this tonight and added fried beans and corn (with chopped onions, garlic, and hot pepper) in the middle. Was so good!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62616">
+		<article id="comment-62616" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/eac3b94e7ef13ff1494f44aab7cea694?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Brenda</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62616"><time pubdate datetime="2009-04-04T11:55:24+00:00">
+					April 4, 2009 at 11:55 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>My uncle used to make this and he put ground beef in the center.  I don’t know if he added it at the beginning or waited until later.  Has anyone ever heard of this tried it?  It was delicious and used as a main dish with a green salad.<br>
+Thanks</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62617">
+		<article id="comment-62617" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/90b5c95956f9527725418574237b9fcb?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Heather</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62617"><time pubdate datetime="2009-07-07T17:54:05+00:00">
+					July 7, 2009 at 5:54 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>We had this for dinner today with some rice pilaf with almonds, and cooked carrots.  Pretty yummy meal ^.^</p>
+<p>I think I would normally cook the squash with just butter and salt, but I wasn’t sure because I never made this on my own before, so I searched the web to give me an idea on what to do, and I saw this recipe and thought I would give it a try since I had real maple syrup in the fridge.  Came out really good :)<br>
+Thanks!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62618">
+		<article id="comment-62618" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/7615a7a3cb2f760a0d45b01ebfc30b7c?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Wendy</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62618"><time pubdate datetime="2009-07-07T18:01:45+00:00">
+					July 7, 2009 at 6:01 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Sooo good! Thank you I love acorn squash the walnuts do sound delicious as an add-on. I made this tonight and was a success! Most of all its very easy to prepare. I love your site Elise!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62619">
+		<article id="comment-62619" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/f46db0b161e94af1b2852879fcb417fc?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Tom Doherty</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62619"><time pubdate datetime="2009-09-01T11:01:30+00:00">
+					September 1, 2009 at 11:01 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>What is the oven temp with this recipe. Some of my acorns in the garden are near ripe and I am dying to try them. I am also told that after picking I need to “cure” them for 10 days or so for a sweeter squash, true? </p>
+<p><em>Step 1, 400°F.  No idea on the “curing”. ~Elise</em></p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62620">
+		<article id="comment-62620" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/6b59982615315cb511b948bdd6b95c56?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://foodmayhem.com" rel="external nofollow" class="url">Jessica Lee Binder</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62620"><time pubdate datetime="2009-10-09T16:21:07+00:00">
+					October 9, 2009 at 4:21 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I just made this with a very small acorn squash. I thought it would take less time since it was so small but it’s still took an hour. Funny, but delicious!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62621">
+		<article id="comment-62621" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/7f86a60b94ad3da28eef5a7f24599fcb?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://grandmaskite.com" rel="external nofollow" class="url">Karen</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62621"><time pubdate datetime="2009-11-06T11:51:39+00:00">
+					November 6, 2009 at 11:51 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Tks everyone for tips. Here are 2 more:<br>
+1. Squash becomes easy schmeazy to cut if you bake it first.<br>
+2. Two things to do with seeds: (A) If you’re baking the squash, you can leave them there til the last 15 min, then tease them to the top with a fork so you can butter/spice them up for a crunchy topping. (B) If you just like roasted seeds, leave them in the squash while you bake. Easiest way to remove them for roasting is to take 2 forks and lift them out. Fork tines at an angle to each other make good shears to lop off the strings. I save seeds in the freezer til I have lots to roast.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62622">
+		<article id="comment-62622" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/1a447793042059c47822365ab19ac98d?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Mary</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62622"><time pubdate datetime="2009-11-20T15:16:03+00:00">
+					November 20, 2009 at 3:16 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Place the squash cut side down with water in pan and bake you get a moist squash. Just flip it over when done and place butter /sugar in side and mix right in the shell before spooning out/ you can also make in the microwave it take about 20 mins on high using the same method with a deep dish plate or pie plate.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62623">
+		<article id="comment-62623" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/52319dc905625df90a72bb9d7387a9a4?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Thomas Cappiello</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62623"><time pubdate datetime="2009-11-26T13:20:39+00:00">
+					November 26, 2009 at 1:20 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Just want to comment on some comments:<br>
+I eat rind on home grown squash if not too tough. Store bought I typically don’t because they are treated with waxes and what-not; not that it is toxic but I don’t want to eat it. It also depends on the species and the age. <br>
+You don’t have to cure acorn squash, the butternuts and thicker skinned gourd types typically get “cured”. And like most starchy foods, the starches of all squash sweeten over time. I tend to hold off on eating home grown squashes and keep them cool for a month or so before eating. The maple syrup touch sounds good, sometimes I also add fruit juices-orange, mango etc to the pan. Squash is great sweetened and unsweetened.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62624">
+		<article id="comment-62624" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/30fd77d5b1f981e3b972412313e5fd1a?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Trish in MO</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62624"><time pubdate datetime="2009-12-11T14:34:23+00:00">
+					December 11, 2009 at 2:34 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>OHmigosh I just discovered this and made it this afternoon. OUTSTANDING! Serving size: ONE!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62625">
+		<article id="comment-62625" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/12362e9139f569d2db7a2a59e1b13f4a?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">anonymous</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62625"><time pubdate datetime="2010-02-10T16:50:12+00:00">
+					February 10, 2010 at 4:50 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I microwaved my butternut squash but splitting it in half and covering it with plastic wrap, but after it had been sitting for a few minutes out of the microwave, there were these tiny white spots that developed on the surface, almost looking like rock salt or white beads of condensation.  Anyone know what this is?</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62626">
+		<article id="comment-62626" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/c5bbdb9f5738e1160ec9ba9ee92c9ea4?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Bernie Wolf</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62626"><time pubdate datetime="2010-06-30T13:06:58+00:00">
+					June 30, 2010 at 1:06 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Hoosier Way for Baked Acorn       A generous portion of Jimmy Dean regular sausage in each half   Bernie</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62627">
+		<article id="comment-62627" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/cdbb6a53045168a45caf41db5e120ad1?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Sherry</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62627"><time pubdate datetime="2010-08-31T15:15:53+00:00">
+					August 31, 2010 at 3:15 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>My mother-in-law taught me to bake the squash cut side down in a baking pan with a couple of inches of water in it.  Then when they’re nearly done, turn them over and add the butter and whatever else you want in the center.  (I use loose browned sausage along with a little bit of brown sugar and butter.)  BUT the very best way to serve acorn squash is in PIE…yes, pie!  Use your pumpkin pie recipe but substitute the meat of the squash for the pumpkin, and it is absolutely delicious! I cook the squash, cool, and spoon it into baggies–equal to the amount of pumpkin the pie recipe calls for–and then I’m set for making pies later.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62628">
+		<article id="comment-62628" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/3cec564f19aaa1c1b2c95163321f37c8?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://www.jeffreyandjulicook.blogspot.com/" rel="external nofollow" class="url">Juli</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62628"><time pubdate datetime="2010-10-04T17:09:47+00:00">
+					October 4, 2010 at 5:09 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Searching for a fast recipe for some acorn squash, and your site came up.  I thought your blog looked familiar, and realize we already follow you! :)</p>
+<p>Looking forward to some good squash with dinner.</p>
+<p>Thanks!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62629">
+		<article id="comment-62629" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/9c05029b04d2d0c2605448c35cbdf9ca?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Jennifer</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62629"><time pubdate datetime="2010-10-06T12:57:48+00:00">
+					October 6, 2010 at 12:57 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I like to balance out the sweetness of squash (or sweet potatoes) with something salty/savory, so I like to add butter with fresh-grated Parmigiano-Reggiano. Yummy!  I love Fall!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62630">
+		<article id="comment-62630" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/5b3e53736606c387ca25f1dbfec646c9?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Linda</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62630"><time pubdate datetime="2010-11-06T09:19:34+00:00">
+					November 6, 2010 at 9:19 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I just made this recipe and found acorn squash to be tasteless by itself and, even with the butter, brown sugar, and pecans,so stringy that it was really unappetizing!  I’m amazed at the wonderful comments.  Oh, well, to each his own;  I’ll stay with wonderful sweet potatoes!</p>
+<p><em>Sounds to  me like you didn’t have a particularly good acorn squash. I wouldn’t write off the recipe, or acorn squash in general, so quickly. ~Elise</em></p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62631">
+		<article id="comment-62631" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/27030ef723fc963e4c5bdee7f92f9c16?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Tiffany</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62631"><time pubdate datetime="2011-01-31T04:55:45+00:00">
+					January 31, 2011 at 4:55 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I am addicted to winter squash.  I love the recipe ideas posted here. I usually bake mine in a baking dish with about an inch of water in the bottom.  Then I scoop it out and add butter, salt and pepper, then mash it up like mashed potatoes. Once in a while I cut the top off and fill them with pre-cooked bulk sausage, caramelized onions,cranberries,walnuts or pecans,a little prepared stuffing and drizzle Vermont maple syrup or melted butter over the top and bake. The also fares well inside of a large hollowed out Vadalia type onion.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62632">
+		<article id="comment-62632" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/259a3859aaebbf94c05d0ddf966d53d2?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Eli</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62632"><time pubdate datetime="2011-03-12T17:30:41+00:00">
+					March 12, 2011 at 5:30 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>We really love this recipe.  I am seven, and asked for this squash for dinner.  I like brown sugar and honey.</p>
+<p>(transcribed by Eli’s dad)</p>
+<p><em>Dear Eli – thank you for getting your dad to write this lovely comment. I’m so glad you liked the squash! ~Elise</em></p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62633">
+		<article id="comment-62633" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/68b01dc9aca3e21e3aa4d6799a1e8717?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">debbbie martin</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62633"><time pubdate datetime="2011-09-28T15:09:42+00:00">
+					September 28, 2011 at 3:09 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I just cut open my acorn squash and it is white inside.What do I do with it? Thanks Deb </p>
+<p><em>You might want to take it back to where you got it and ask the produce manager.  I’ve never seen that before.  If it is some kind of mold you’re not going to want to eat it. ~Elise</em></p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62634">
+		<article id="comment-62634" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/0bb324a3a7bda00333cb57c46324005f?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Ed</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62634"><time pubdate datetime="2011-10-29T14:17:12+00:00">
+					October 29, 2011 at 2:17 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Kudos to the bartender (Beth) who suggested substituting ameretto for brown sugar and maple syrup. I had an acorn squash in the house, no brown sugar and no maple syrup. I did have ameretto though. It adds some extra tang to the flavor and is a great substitute! Thanks! </p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62635">
+		<article id="comment-62635" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/80d54165782f7523110520a25a1ee894?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Norm</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62635"><time pubdate datetime="2011-11-14T13:01:34+00:00">
+					November 14, 2011 at 1:01 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>My wife and I have made this traditional version for years.  I generally don’t care for squash but love this.  What I want to comment on is all the fantastic alternative ideas the readers posted!  I can’t wait to try them!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62636">
+		<article id="comment-62636" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/e4e23a1bd39844e2c6e8928e1dfaac32?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn"><a href="http://livelovenyc.blogspot.com" rel="external nofollow" class="url">Caitlin @ Vegetarian in the City</a></cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62636"><time pubdate datetime="2011-11-14T13:28:47+00:00">
+					November 14, 2011 at 1:28 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I love squash in the fall and winter. recently i tried topping it with homemade pesto – so good!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62637">
+		<article id="comment-62637" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/2c6738511f5b5d113ad72659f157d8ff?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">shedragon713</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62637"><time pubdate datetime="2011-11-24T11:40:28+00:00">
+					November 24, 2011 at 11:40 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I microwaved the cut squash only for 10 minutes on High and then baked it w/ ingredients in convection oven @ 375 for 30 minutes and it turned out perfectly. thanks for the recipe!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-62638">
+		<article id="comment-62638" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://1.gravatar.com/avatar/5d546fff047b14cced76e457aa19ec57?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Randy</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62638"><time pubdate datetime="2012-02-07T08:22:14+00:00">
+					February 7, 2012 at 8:22 am					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>I use this recipe but always substitute the sugar for molasses.  Molasses and butter make a fantastic glaze and sauce.</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+	<li class="comment even thread-even depth-1" id="li-comment-62639">
+		<article id="comment-62639" class="comment"><header><span class="comment-author">
+					<img alt="" src="http://0.gravatar.com/avatar/67739e8ce4ebcfce65d4669e9daec801?s=40&amp;d=http%3A%2F%2Fwww.simplyrecipes.com%2Fwp-content%2Fthemes%2Fsimply%2Fi%2Flogo-avatar.png%3Fs%3D40&amp;r=G" class="avatar avatar-40 photo" height="40" width="40"><cite class="fn">Crys</cite>
+				</span><!-- .comment-author -->
+				<span class="comment-meta commentmetadata">
+					<a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/#comment-62639"><time pubdate datetime="2012-02-23T16:34:32+00:00">
+					February 23, 2012 at 4:34 pm					</time></a>
+				</span><!-- .comment-meta .commentmetadata -->
+
+			</header><div class="comment-content">
+<p>Love this! We always add crispy bacon during the last half hour of baking. Yum!</p>
+</div>
+
+			<footer><div class="comment-actions">
+														</div>
+				
+				
+			</footer></article>
+</li>
+		</ol>
+<!-- .commentlist --><div class="comments-disabled">
+			<p class="nocomments">I apologize for the inconvenience, but <strong>comments are closed</strong>.  You can share your thoughts on <a href="http://facebook.com/simplyrecipes/" title="Simply Recipes on Facebook">our Facebook page</a> <em>~ Elise</em>.</p>	
+		</div>
+		
+
+</div>
+<!-- #comments .comments-area -->
+
+					<div class="center-module" id="linkto">
+						<h3>Link to this Recipe</h3>
+						<p>Bookmark this page using the following link:  <a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/" title="Bookmark this page">http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/</a></p>
+						<p>Do you have a website?  You can place a link to this page by copying and pasting the code below.</p>
+						<code>&lt;a href="http://www.simplyrecipes.com/recipes/classic_baked_acorn_squash/"&gt;Classic Baked Acorn Squash&lt;/a&gt;</code>
+					</div>
+
+
+				
+			</div>
+<!-- #content .site-content -->
+		</div>
+<!-- #primary .content-area -->
+
+	<div id="sidebar-left" class="widget-area" role="complementary">
+<div id="custom_post_widget-32" class="widget_content_block_10377 widget widget_custom_post_widget">
+<p><script type="text/javascript"><!--
+google_ad_client = "pub-5527714554151844";
+google_ad_width = 150;
+google_ad_height = 90;
+google_ad_format = "120x90_0ads_al";
+google_ad_channel ="4739403809";
+google_color_border = "FFF2E3";
+google_color_bg = "FFF2E3";
+google_color_link = "993300";
+google_color_url = "660000";
+google_color_text = "660033";
+//--></script><br><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+</div>
+<div id="custom_post_widget-17" class="widget_content_block_10354 widget widget_custom_post_widget">
+<h3 class="widget-title">Recipes by Type</h3>
+<ul>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/beef/">Beef</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/chicken/">Chicken</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/egg/">Egg</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/cheese/">Cheese</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/lamb/">Lamb</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/pasta/">Pasta</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/pork/">Pork</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/fish_and_seafood/">Fish and Seafood</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/turkey/">Turkey</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/ingredient/vegetables/">Vegetables</a></li>
+</ul>
+<ul>
+<li><a href="http://www.simplyrecipes.com/recipes/course/appetizer/">Appetizer</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/course/breakfast_and_brunch/">Breakfast and Brunch</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/type/bakery/">Bakery</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/type/casserole/">Casserole</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/type/cookie/">Cookies</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/course/dessert/">Dessert</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/course/main_course/">Main Course</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/course/salad/">Salad</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/course/sandwich/">Sandwich</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/course/side_dish/">Side Dish</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/course/soup_and_stew/">Soup and Stew</a></li>
+</ul>
+<ul>
+<li><a href="http://www.simplyrecipes.com/recipes/season/holiday/">Holiday Recipes</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/season/grill/">Grill Recipes</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/type/budget/">Budget Recipes</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/type/vegetarian/">Vegetarian Recipes</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/type/low_carb/">Low Carb Recipes</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/type/quick/">Quick Recipes</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/type/gluten-free/">Gluten-Free Recipes</a></li>
+<li><a href="http://www.simplyrecipes.com/recipes/cuisine/mexican_and_tex_mex/">Mexican and Tex Mex Recipes</a></li>
+</ul>
+<ul>
+<li><a href="http://www.simplyrecipes.com/recipes/type/how_to/">Tips and Tricks</a></li>
+<li><a href="http://www.simplyrecipes.com/category/book_reviews/">Book Reviews</a></li>
+</ul>
+</div>
+<div id="custom_post_widget-33" class="widget_content_block_10368 widget widget_custom_post_widget">
+<div style="width: 153px !important; height: 170px !important; background: white !important; border: 1px solid #e8d0c5 !important; overflow: hidden !important; text-align: center !important;">
+<a href="http://foodblogsearch.com" target="_blank"><img style="border: 0 !important; padding: 0 !important; margin-bottom: 5px !important;" src="http://foodblogsearch.com/images/embed.png" alt=""></a><!-- Google CSE Search Box Begins -->
+<form id="searchbox_003084314295129404805:72ozi9a0fjk" style="margin: 0 !important; padding: 0 !important;" action="http://foodblogsearch.com/results/">
+<input type="hidden" name="cx" value="003084314295129404805:72ozi9a0fjk"><input type="hidden" name="cof" value="FORID:11"><input style="border: solid 1px #8A7C7D !important; width: 128px !important; height: 16px !important;" type="text" name="q"><input id="search-button" style="margin-top: 4px !important; margin-bottom: 4px !important;" title="Search Food Blogs" type="image" name="sa" value="Search Food Blogs" src="http://foodblogsearch.com/images/submit.png" alt="Search Food Blogs">
+</form>
+<p><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_003084314295129404805%3A72ozi9a0fjk"></script><!-- Google CSE Search Box Ends --></p>
+</div>
+</div>
+<div id="custom_post_widget-34" class="widget_content_block_10372 widget widget_custom_post_widget">
+<h3 class="widget-title">Cooking and Food Blogs</h3>
+<ul>
+<li><a href="http://www.simplyrecipes.com/food_blogs/" rel="nofollow">Latest news from favorite food blogs</a></li>
+</ul>
+</div>
+<div id="custom_post_widget-19" class="widget_content_block_10360 widget widget_custom_post_widget">
+<h3 class="widget-title">Measurement Converter</h3>
+<form target="_blank" action="http://www.google.com/search"> <input type="text" size="18" maxlength="255" value="half pound in grams" name="q" onclick="clickclear(this, 'half pound in grams')" onblur="clickrecall(this,'half pound in grams')" class="field"><br><input type="image" src="http://www.simplyrecipes.com/wp-content/themes/simply/i/button-arrow.gif?ea6e46" alt="go" class="button" name="sa" value="Convert"><br>
+</form>
+<p><a href="http://www.simplyrecipes.com/converter/" onclick="window.open('/converter','popup','width=500,height=700,scrollbars=yes,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=100,top=100'); return false">(How to use the Converter)</a></p>
+</div>
+<div id="custom_post_widget-35" class="widget_content_block_10375 widget widget_custom_post_widget">
+<h3 class="widget-title">Discover More</h3>
+<ul>
+<li><a href="http://www.elise.com/">www.elise.com</a></li>
+<li><a href="http://www.flickr.com/photos/elisebauer/" rel="nofollow">Flickr photos</a></li>
+<li>Follow <a href="http://twitter.com/simplyrecipes" rel="nofollow">me</a> or get <a href="http://twitter.com/recipeupdates/">recipe updates</a> on <a href="http://twitter.com/home" rel="nofollow">Twitter</a>
+</li>
+<li><a href="http://www.simplyrecipes.com/press.php" rel="nofollow">Press and Awards</a></li>
+</ul>
+<ul>
+<li><a href="http://www.simplyrecipes.com/linkto.php" onclick="window.open('http://www.simplyrecipes.com/linkto.php','popup','width=500,height=350,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=100,top=100'); return false" rel="nofollow">Link to Simply Recipes!</a></li>
+<li>
+<a href="http://toolbar.google.com/buttons/add?url=http://www.simplyrecipes.com/toolbar_button.xml" rel="nofollow">Add to Google Toolbar</a> (IE and FireFox)</li>
+</ul>
+<ul id="rssbadges">
+<li><a href="http://fusion.google.com/add?feedurl=http%3A//feedproxy.google.com/elise/simplyrecipes" rel="nofollow"><img src="http://buttons.googlesyndication.com/fusion/add.gif" width="104" height="17" border="0" alt="Add to Google"></a></li>
+</ul>
+</div>
+</div>
+	<div id="sidebar-right" class="widget-area" role="complementary">
+<div id="custom_post_widget-38" class="widget_content_block_10384 widget widget_custom_post_widget">
+<p><!-- BEGIN 160x600 MAIN AD--><br><script type="text/javascript" src="http://ads.blogherads.com/19/198/160a.js"></script><br><!-- END 160x600 MAIN AD--></p>
+</div>
+<div id="relatedentries-2" class="widget related-entries">
+<div class="yarpp-related">
+	<h3 class="widget-title">More Recipes</h3>
+	<ol>
+<li>
+			<a href="http://www.simplyrecipes.com/recipes/butternut_squash_with_walnuts_and_vanilla/" title="Butternut Squash with Walnuts and Vanilla" rel="bookmark">Butternut Squash with Walnuts and Vanilla</a>
+		</li>
+	    	    <li>
+			<a href="http://www.simplyrecipes.com/recipes/moms_summer_squash/" title="Mom’s Summer Squash" rel="bookmark">Mom’s Summer Squash</a>
+		</li>
+	    	    <li>
+			<a href="http://www.simplyrecipes.com/recipes/butternut_squash_with_browned_butter_and_thyme/" title="Butternut Squash with Browned Butter and Thyme" rel="bookmark">Butternut Squash with Browned Butter and Thyme</a>
+		</li>
+	    	    <li>
+			<a href="http://www.simplyrecipes.com/recipes/curried_squash_soup/" title="Curried Squash Soup" rel="bookmark">Curried Squash Soup</a>
+		</li>
+	    	    <li>
+			<a href="http://www.simplyrecipes.com/recipes/summer_squash_salad/" title="Summer Squash Salad" rel="bookmark">Summer Squash Salad</a>
+		</li>
+	    	</ol>
+</div>
+</div>
+<div id="custom_post_widget-40" class="widget_content_block_10388 widget widget_custom_post_widget">
+<!-- Begin supplemental 160 ad -->
+<script src="http://ads.blogherads.com/19/198/160b.js" type="text/javascript"></script><!-- End supplemental 160 ad -->
+</div>        <div id="all-recent-posts-2" class="widget sr_widget_all_recent_posts">        <h3 class="widget-title">Recently on Simply Recipes</h3>        <ul>
+<li><a href="http://www.simplyrecipes.com/recipes/walnut_parsley_pesto/" title="Walnut Parsley Pesto">Walnut Parsley Pesto</a></li>
+                <li><a href="http://www.simplyrecipes.com/recipes/raspberry_walnut_tart/" title="Raspberry Walnut Tart">Raspberry Walnut Tart</a></li>
+                <li><a href="http://www.simplyrecipes.com/recipes/roasted_butternut_squash_radicchio_and_onion/" title="Roasted Butternut Squash, Radicchio, and Onion">Roasted Butternut Squash, Radicchio, and Onion</a></li>
+                <li><a href="http://www.simplyrecipes.com/recipes/cowboy_cookies/" title="Cowboy Cookies">Cowboy Cookies</a></li>
+                <li><a href="http://www.simplyrecipes.com/recipes/moroccan_grated_carrot_and_beet_salad/" title="Moroccan Grated Carrot and Beet Salad">Moroccan Grated Carrot and Beet Salad</a></li>
+                </ul>
+</div>
+<div id="houseads-2" class="widget house-ads"><div class="house-ad"><a href="http://www.simplyrecipes.com/recipes/gingerbread_man_cookies/" title="Gingerbread Men Cookies"><img width="150" height="228" src="http://www.simplyrecipes.com/wp-content/uploads/2012/11/gingerbread-men-ad.jpeg?ea6e46" class="attachment-sr-venti wp-post-image" alt="gingerbread-men-ad"></a></div></div>
+<div id="text-16" class="widget widget_text">			<div class="textwidget">
+<!-- Facebook Activity: 188px wide -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=138323699531998";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><div class="fb-like-box" data-href="http://www.facebook.com/simplyrecipes" data-width="188" data-height="365" data-show-faces="true" data-stream="false" data-header="false"></div>
+</div>
+		</div>
+</div>
+
+
+	</div>
+<!-- #main .site-main -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo"><div class="footer-ad">
+			<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-5527714554151844";
+			/* Recipes-Bottom-Leaderboard */
+			google_ad_slot = "4467616738";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			//-->
+			</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+</div>
+		<div class="site-info">
+						Simply Recipes ©2003-2012 Simply Recipes, Inc., by Elise Bauer <a href="http://www.elise.com/" title="Elise Bauer's Blog">elise.com</a> | <a href="/advertise/" title="Advertise on Simply Recipes">Advertise</a> | <a href="/privacy/" title="Simply Recipes Privacy Policy">Privacy Policy</a> | Design by Plasticmind
+		</div>
+<!-- .site-info -->
+	</footer><!-- #colophon .site-footer -->
+</div>
+<!-- #page .hfeed .site -->
+
+<script language="JavaScript" type="text/javascript" src="http://c2586692.cdn.cloudfiles.rackspacecloud.com/nielsen_v6.js"></script><!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" --><script type="text/javascript" language="JavaScript">var site="s14simplyrecipes"</script><script type="text/javascript" language="JavaScript1.2" src="http://s14.sitemeter.com/js/counter.js?site=s14simplyrecipes">
+</script><noscript>
+<a href="http://s14.sitemeter.com/stats.asp?site=s14simplyrecipes" target="_top">
+<img src="http://s14.sitemeter.com/meter.asp?site=s14simplyrecipes" alt="Site Meter" border="0"></a>
+</noscript>
+<!-- Copyright (c)2002 Site Meter -->
+<!--WEBBOT bot="HTMLMarkup" Endspan -->
+
+<!-- Cross Pixel tag -->
+<script src="http://tag.crsspxl.com/s1.js?d=370"></script><!-- End Cross Pixel tag --><!-- Quantcast Tag --><script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-b4avvOs0MlF9s"
+});
+</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-b4avvOs0MlF9s.gif?ea6e46" border="0" height="1" width="1" alt="Quantcast"></div></noscript>
+<!-- End Quantcast tag -->
+
+<!-- Compete XL Code for simplyrecipes.com -->
+<script type="text/javascript">
+__compete_code = 'c7bfa8b85aabfdef03109774925dafaa';
+/* Set control variables below this line. */ 
+</script><script type="text/javascript" src="//c.compete.com/bootstrap/s/c7bfa8b85aabfdef03109774925dafaa/simplyrecipes-com/bootstrap.js"></script><noscript>
+    <img width="1" height="1" src="https://ssl-simplyrecipes-com-c7bfa8.c-col.com">
+</noscript>
+</body>
+</html><!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: basic
+Object Caching 2961/3056 objects using disk: basic
+
+Served from: www.simplyrecipes.com @ 2012-12-14 01:28:07 -->

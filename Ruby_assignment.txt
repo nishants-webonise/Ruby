@@ -133,6 +133,12 @@ irb(main):048:0> string_one.concat(string_two)
 
 6. Print string 1 & 2 using heredoc.
 
+irb(main):001:0> here_doc=<<EOF
+irb(main):002:0" 
+irb(main):003:0" RUBY parses a file by looking for <br/> one of the special tags that tells it to start interpreting the text as RUBY code. The parser the executes all of the code it finds until it runs into a RUBY closing <br/> tag.
+irb(main):004:0" RUBY does not require (or support) explicit type definition in variable declaration; a variable's type is determined by the context in which the variable is used.
+irb(main):005:0" EOF
+=> "\nRUBY parses a file by looking for <br/> one of the special tags that tells it to start interpreting the text as RUBY code. The parser the executes all of the code it finds until it runs into a RUBY closing <br/> tag.\nRUBY does not require (or support) explicit type definition in variable declaration; a variable's type is determined by the context in which the variable is used.\n"
 ----------xxx----------
 
 7. Print current date.
