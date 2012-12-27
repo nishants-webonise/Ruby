@@ -15,7 +15,7 @@ ActiveRecord::Base.establish_connection(
 class Recipe < ActiveRecord::Base
 end
 
-limit = 5 # Limit value for the loop. Specify "nil" for getting all the records.
+limit = 30 # Limit value for the loop. Specify "nil" for getting all the records.
 
 $array_one = [] # Array to get the entry urls
 
